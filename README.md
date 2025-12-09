@@ -167,7 +167,7 @@ By understanding it, researchers can:
 
 ## 10. Disclaimer
 
-This project and its accompanying code are based on a public proof-of-concept originally shared via social media by vx-underground, demonstrating how Windows Elevation Monikers can be used to instantiate undocumented Full Volume Encryption (FVE/BitLocker) COM interfaces.  [oai_citation:0‡X (formerly Twitter)](https://x.com/vxunderground/status/1997999255001194887)
+This project and its accompanying code are based on a public proof-of-concept originally shared via social media by vx-underground, demonstrating how Windows Elevation Monikers can be used to instantiate undocumented Full Volume Encryption (FVE/BitLocker) COM interfaces.  [Original Post](https://x.com/vxunderground/status/1997999255001194887)
 
 This material is provided **for educational and research purposes only**. It is **not intended for unauthorized system access, data destruction, bypassing security controls, or production deployment.**  
 
